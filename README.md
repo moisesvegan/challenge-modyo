@@ -26,9 +26,10 @@ Scoreboard.js es un componente simple que muestra el puntaje del jugador en el j
 
 ## Tecnologías Utilizadas:
 
-React
-Next.js
-Tailwindcss
+- React
+- Next.js
+- Tailwindcss
+  
 ## Instalación y Uso:
 
 Clonar este repositorio en una máquina local.
