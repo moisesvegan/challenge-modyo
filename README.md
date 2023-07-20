@@ -32,7 +32,7 @@ Scoreboard.js es un componente simple que muestra el puntaje del jugador en el j
   
 ## Instalación y Uso:
 
-Clonar este repositorio en una máquina local.
-Instalar las dependencias con el comando: npm install.
-Instalar dependencias de Tailwindcss: npm install tailwindcss
-Ejecutar el proyecto localmente con el comando: npm run dev.
+- Clonar este repositorio en una máquina local.
+- Instalar las dependencias con el comando: npm install.
+- Instalar dependencias de Tailwindcss: npm install tailwindcss
+- Ejecutar el proyecto localmente con el comando: npm run dev.
