@@ -1,5 +1,3 @@
-// utils/api.js
-
 const API_ENDPOINT = 'https://fed-team.modyo.cloud/api/content/spaces/animals/types/game/entries?per_page=20';
 
 export const getAnimalImages = async () => {
