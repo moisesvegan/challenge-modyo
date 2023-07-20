@@ -1,5 +1,3 @@
-// components/Scoreboard.js
-
 import React from "react";
 
 const Scoreboard = ({ aciertos, errores }) => {
